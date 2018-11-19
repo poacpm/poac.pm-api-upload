@@ -39,7 +39,7 @@ defmodule Poacpm.Mixfile do
       {:gettext, "~> 0.11"},
       {:cowboy, "~> 1.0"},
       {:junit_formatter, "~> 2.2", only: :test},
-      {:credo, "~> 0.10.0", only: [:dev, :test], runtime: false},
+      {:credo, "~> 1.0.0", only: [:dev, :test], runtime: false},
       {:dialyxir, "~> 0.5.0", only: [:dev, :test], runtime: false},
       {:poison, "~> 3.0"},
       {:yaml_elixir, "~> 2.1"},
