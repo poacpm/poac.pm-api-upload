@@ -12,7 +12,7 @@ require (
 	github.com/labstack/echo/v4 v4.1.5
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
 	github.com/swaggo/echo-swagger v0.0.0-20190329130007-1219b460a043
-	github.com/swaggo/swag v1.5.0
+	github.com/swaggo/swag v1.5.1
 	golang.org/x/net v0.0.0-20190522155817-f3200d17e092
 	google.golang.org/api v0.5.0
 	google.golang.org/appengine v1.6.0
